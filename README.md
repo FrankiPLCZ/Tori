@@ -14,7 +14,7 @@ Gameplay is a mix of a parkour-collecting-puzzle. At first you collect ghosts in
 It's me playing with Unity and testing out it's abbilities 
 It's a bugy mess which i will rather not finish due to the fact that it has so many elements that i cannot add URP to it and i don't like the outcome without it.
 Allthough it isn't finished it's fun to play and if someone wants to try it out i would love some feedback.
-[Link to Instaler](https://drive.google.com/file/d/1mNyyLOAdTuqSnAnbdPX47VOzMTzchTpp/view?usp=sharing)
+[Link to the Installer](https://drive.google.com/file/d/1mNyyLOAdTuqSnAnbdPX47VOzMTzchTpp/view?usp=sharing)
 
 
 https://user-images.githubusercontent.com/88843916/129597381-0476a511-424e-4d82-9a8a-a60ca467f124.mp4
